@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+  padding:40px;
+}
+
+.Hero{
+  height: 250px;
+  width: 100%;
+  border-radius: 30px;
+  background:url("./clg.jpg"), linear-gradient(45deg,rgb(3, 168, 3),rgb(1, 37, 5));
+  background-blend-mode: color-burn;
+  background-size: cover;
+  background-position: center;
+  display: inline-flex;
+}
+.Hero .Head{
+  margin: 30px;
+  margin-top: auto;
+  font-size: 30px;
+  color: white;
+  line-height: 1;
+  text-align: left;
+}
+.Hero .Head div{
+  font-weight: 900;
+  
+}
+.vImg{
+  display: flex;
+}
+.vote{
+  margin: 120px 10px;
+
+}
+.vImg svg{
+  margin: auto;
+}
+.voting{
+  margin-top: 30px;
+}
+.eCant.act{
+  border:solid 4px rgb(2, 70, 2);
+}
+.eCant .txt{
+  margin-top: 10px;
+  font-weight: 900;
+  line-height: 1;
+  
+text-align: left;
+
+  background: -webkit-linear-gradient(50deg,rgb(2, 82, 44), rgb(4, 189, 60));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  font-size: 15px;
+}
+.eCant{
+  margin: 10px;
+  box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
+  padding: 20px ;
+  border-radius: 20px;
+  display: grid;
+  grid-template-columns: 100px 1fr;
+ width: 100%;
+}
+.eCant .img{
+  border-radius: 30px;
+  height:80px;
+  width: 80px;
+  overflow: hidden;
+}
+.eCant .img img{
+width: 80px;
+}

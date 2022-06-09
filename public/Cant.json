@@ -1,0 +1,6 @@
+[
+    { "type": "President", "cants": [{ "name": "Samad Mooniyoor", "pic": "./a.png" }, { "name": "qwer Mooniyoor", "pic": "./a.png" }, { "name": "wertw wert", "pic": "./a.png" }] },
+    { "type": "Sec", "cants": [{ "name": "Samad Mooniyoor", "pic": "./a.png" }, { "name": "wereea Mooniyoor", "pic": "./a.png" }] },
+    { "type": "Ter", "cants": [{ "name": "Samad Mooniyoor", "pic": "./a.png" }, { "name": "eradf Mooniyoor", "pic": "./a.png" }] }
+  
+  ]
